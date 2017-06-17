@@ -10,5 +10,5 @@
             "Methodin\\Oak\\": "src/"
         }
     },
-    "bin": ["bin/dump"]
+    "bin": ["bin/oak-dump"]
 }
