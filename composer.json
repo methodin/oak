@@ -1,5 +1,5 @@
 {
-    "name": "oak",
+    "name": "methodin/oak",
     "require": {
         "symfony/http-foundation": "~3.0",
         "doctrine/annotations": "~1.4",
