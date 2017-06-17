@@ -6,8 +6,9 @@
         "doctrine/dbal": "~2.5"
     },
     "autoload": {
-        "psr-0": {
-            "Methodin\\Oak": "src/"
+        "psr-4": {
+            "Methodin\\Oak\\": "src/"
         }
-    }
+    },
+    "target-dir": "Methodin/Oak"
 }
