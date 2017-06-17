@@ -1,0 +1,13 @@
+{
+    "name": "oak",
+    "require": {
+        "symfony/http-foundation": "~3.0",
+        "doctrine/annotations": "~1.4",
+        "doctrine/dbal": "~2.5"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    }
+}
