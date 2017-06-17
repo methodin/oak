@@ -7,7 +7,7 @@
     },
     "autoload": {
         "psr-0": {
-            "": "src/"
+            "Methodin\\Oak": "src/"
         }
     }
 }
